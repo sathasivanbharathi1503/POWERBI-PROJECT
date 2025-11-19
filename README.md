@@ -1,1 +1,1 @@
-# POWERBI-PROJECT
+This project is a Power BI Dashboard for Zepto Sales Performance Analysis. It transforms quick-commerce data using DAX and interactive visuals to track key performance indicators (KPIs) like Sales and Ratings, and delivers actionable insights segmented by outlet size, tier, and item type.
